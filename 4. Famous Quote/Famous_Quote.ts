@@ -1,0 +1,1 @@
+console.log(`Khabib Nurmagodev once said, “Stars can't shine without darkness.”`);
